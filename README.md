@@ -65,4 +65,39 @@
     
     fi
 
+10. ### Making Directory for Script **(mkdir shell)**
+![Making Directory for script](Making%20Shell%20Directory%20and%20Going%20into%20it.png)
+
+
+11. ### Creating CSV file in Shell directory **(touch names.csv)**
+
+![Creating csv file](/Creating%20names.csv%20file%20and%20updating%20it.png)
+
+12. ### Populating csv file with random names
+
+![Populating names.csv](/Populating%20names.scv%20file.png)
+
+13. ### Creating developers group on server **(Sudo groupadd developers)**
+
+![](Creating%20Developers%20group.png)
+
+14. ### Creating directory for public key & Private key and populating it with public key **(mkdir id_rsa.pub id_rsa)**
+
+![](creating%20Keys%20Directory.png)
+
+![](Populating%20Public%20key%20id_rsa.pub.png)
+
+![](Populating%20Private%20key%20file%20id_rsa.png)
+
+15. ### Running the script **(./onboarding.sh)**
+
+![](Running%20the%20script%2C%20users%20being%20created%20successfully.png)
+
+16. ### users successfully created
+
+![](20%20new%20users%20successfully%20created.png)
+
+17. ### Logged in as another user (Kunle) and verifyying .ssh folder is created including home directory 
+
+![](Logged%20in%20as%20Kunle%20.ssh%20folder%20present.png)
 
